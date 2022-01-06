@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Body mass index (BMI) is a value derived from the mass (weight) and height of a person. The BMI is defined as the body mass divided by the square of the body height, and is expressed in units of kg/m2, resulting from mass in kilograms and height in metres.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
